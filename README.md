@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=coucoseth)](https://github.com/coucoseth/github-readme-stats)
 <!--
 **coucoseth/coucoseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
