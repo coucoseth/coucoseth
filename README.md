@@ -4,7 +4,7 @@
 ### Backend guy mostly but hey.. i'll be there when the front-end needs me
 ### Love to connect and chat -> twitter
 
-[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=coucoseth&count_private=true)](https://github.com/coucoseth/github-readme-stats)
+[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=coucoseth)](https://github.com/coucoseth/github-readme-stats)
 <!--
 **coucoseth/coucoseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
