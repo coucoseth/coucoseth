@@ -16,7 +16,7 @@ Experienced Full-Stack Software Engineer & Technical Architect specializing in p
 
      
 
-🚀 Frontend, Mobile & Smart TV
+🚀 Frontend, WEb, Desktop, Mobile & Smart TV
 
     
 
@@ -35,29 +35,26 @@ Experienced Full-Stack Software Engineer & Technical Architect specializing in p
 Automotive Classifieds & Listing Engine
 
 Automotive platform featuring dynamic vehicle taxonomy, listing search engine, buyer-seller messaging, vendor portal, and system administration management.
-Tech Stack: PERN Stack (PostgreSQL, Express, React, Node.js), Tailwind CSS, Rest API
+
 🏠 NyumbanApp
 Offline-First Rental Property Platform
 
 Mobile and web suite enabling property condition records, image gallery management, tenant portals, and offline data sync for real estate operations.
-Tech Stack: React Native, Next.js, Node.js, Design Systems
+
 🔒 Wire24
 Mobile Application & Vault Ecosystem
 
-Mobile platform featuring secure vault architecture, TestFlight distributions, and UI/UX flows.
-Tech Stack: iOS/Android Mobile Development, TestFlight, Node.js
+Mobile platform featuring secure vault architecture, a Financial system involving multi-currency transactions.
+
 🌐 Rotary Club of Namasuba
-Community Web Portal & CMS
+Community Web Portal & In-house system
 
-Community platform and administrative dashboard for content management, member access, and event tracking.
-Tech Stack: Full-Stack Web, CMS Dashboard, Database Systems
+Community platform and administrative dashboard for rotary internal system.
 
+🍿 Munowatch
+A movie streaming platform
 
-
-📊 GitHub Statistics
- 
-
-
+A movie streaming platform having web, mobile(android & ios) and Smart TV apps. https://munowatch.com
 
 
 👥 Tech Community Involvement:
@@ -66,7 +63,7 @@ Member, ProSEIT & Founders Lounge Uganda
 
 
 📫 Connect With Me
-   
+   ochseth04@gmail.com
 
 Designed & Developed by Ochieng Seth
 
