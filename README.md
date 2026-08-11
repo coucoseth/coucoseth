@@ -54,7 +54,7 @@ Community platform and administrative dashboard for rotary internal system.
 🍿 Munowatch
 A movie streaming platform
 
-A movie streaming platform having web, mobile(android & ios) and Smart TV apps. https://munowatch.com
+A movie streaming platform having web, mobile(android & ios) and Smart TV apps.
 
 
 👥 Tech Community Involvement:
