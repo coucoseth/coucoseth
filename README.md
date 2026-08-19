@@ -26,36 +26,6 @@ Experienced Full-Stack Software Engineer & Technical Architect specializing in p
 
 ☁️ Cloud, DevOps & Environment
 
-     
-
-
-📌 Featured Projects
-
-🚗 MotorSafe / AutoSafi
-Automotive Classifieds & Listing Engine
-
-Automotive platform featuring dynamic vehicle taxonomy, listing search engine, buyer-seller messaging, vendor portal, and system administration management.
-
-🏠 NyumbanApp
-Offline-First Rental Property Platform
-
-Mobile and web suite enabling property condition records, image gallery management, tenant portals, and offline data sync for real estate operations.
-
-🔒 Wire24
-Mobile Application & Vault Ecosystem
-
-Mobile platform featuring secure vault architecture, a Financial system involving multi-currency transactions.
-
-🌐 Rotary Club of Namasuba
-Community Web Portal & In-house system
-
-Community platform and administrative dashboard for rotary internal system.
-
-🍿 Munowatch
-A movie streaming platform
-
-A movie streaming platform having web, mobile(android & ios) and Smart TV apps.
-
 
 👥 Tech Community Involvement:
 Member, Google Developer Group (GDG) Cloud Kampala
